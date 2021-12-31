@@ -1,0 +1,127 @@
+Atlanta United FC
+Chicago Fire
+Columbus Crew SC
+D.C. United
+FC Cincinnati
+Montreal Impact
+New England Revolution
+New York City FC
+New York Red Bulls
+Orlando City SC
+Philadelphia Union
+Toronto FC
+Colorado Rapids
+FC Dallas
+Houston Dynamo
+LA Galaxy
+Los Angeles FC
+Minnesota United FC
+Portland Timbers
+Real Salt Lake
+San Jose Earthquakes
+Seattle Sounders FC
+Sporting Kansas City
+Vancouver Whitecaps FC
+Inter Miami CF
+Nashville SC
+Cavalry FC
+FC Edmonton
+Forge FC
+HFX Wanderers FC
+Pacific FC
+Valour FC
+York9 FC
+América
+Atlas
+Atlético San Luis
+Cruz Azul
+Guadalajara
+Juárez
+León
+Monterrey
+Morelia
+Necaxa
+Pachuca
+Puebla
+Querétaro
+Santos Laguna
+Tijuana
+Toluca
+Tigres UANL
+Pumas UNAM
+Arsenal
+Aston Villa
+AFC Bournemouth
+Brighton and Hove Albion
+Burnley
+Chelsea
+Crystal Palace
+Everton
+Leicester City
+Liverpool
+Manchester City
+Manchester United
+Newcastle United
+Norwich City
+Sheffield United
+Southampton
+Tottenham Hotspur
+Watford
+West Ham United
+Real Madrid
+Barcelona
+Atletico Madrid
+Sevilla
+Getafe
+Real Sociedad
+Valencia
+Villarreal
+Granada
+Levante
+Osasuna
+Real Betis
+Alaves
+Real Valladolid
+Eibar
+Celta Vigo
+Real Mallorca
+Leganes
+Espanyol
+RasenBallsport Leipzig
+Borussia Monchengladbach
+Bayern Munich
+Borussia Dortmund
+Schalke
+Freiburg
+Bayer Leverkusen
+Hoffenheim
+Wolfsburg
+Union Berlin
+Augsburg
+Eintracht Frankfurt
+Koln
+Hertha Berlin
+Mainz
+Werder Bremen
+Dusseldorf
+Paderborn
+Paris Saint-Germain
+Marseille
+Rennes
+Nantes
+Lille
+Montpellier
+Lyon
+Reims
+Monaco
+Angers
+Nice
+Strasbourg
+Bordeaux
+Brest
+St Etienne
+Dijon
+Metz
+Amiens
+Nimes
+Toulouse 
